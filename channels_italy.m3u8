@@ -330,9 +330,6 @@ https://priv98-telex.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/110
 #EXTINF:-1 tvg-id="rakutendrama.it" tvg-name="Rakuten Drama" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN DRAMA (V)
 https://priv98-telex.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/209862439074120bb15132&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rakutenfamily.it" tvg-name="Rakuten Family" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN FAMILY (V)
-https://priv98-telex.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="rakutentopfree.it" tvg-name="Rakuten Top Free" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN TOP FREE (V)
 https://priv98-telex.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1572866962efea4ca22353&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -431,9 +428,6 @@ https://priv98-telex.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/175
 
 #EXTINF:-1 tvg-id="skycinemauno+24.it" tvg-name="Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film;Sky",SKY CINEMA UNO +24 (V)
 https://priv98-telex.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/16998765309700e7076450&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skydocumentaries.it" tvg-name="Sky Documentaries" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Sky",SKY DOCUMENTARIES (V)
-https://priv98-telex.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skynature.it" tvg-name="Sky Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari;Sky",SKY NATURE (V)
 https://priv98-telex.hf.space/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
